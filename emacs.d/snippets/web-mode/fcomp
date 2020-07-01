@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: React Functional Component
+# key: fcomp
+# --
+import React from 'react';
+
+function $1 ($2) {
+  $3;
+}

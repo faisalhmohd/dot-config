@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: Require
+# key: req
+# --
+
+const $1 = require('$2');
